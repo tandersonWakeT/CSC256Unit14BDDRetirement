@@ -49,6 +49,7 @@ def gather_info():
 
     return birth_year, birth_month
 
+
 def calc_age(year, month):
     if 1900 <= year < 1943:
         print("Your full retirement age is 65 and 8 months")
