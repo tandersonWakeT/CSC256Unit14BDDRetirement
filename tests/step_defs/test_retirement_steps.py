@@ -9,5 +9,5 @@ scenarios('../features/retirement.feature')
 def test_invalid_birth_year_high():
     gather_info_test(2022, 1)
 
-@when('')
-def
+#@when('')
+#def
